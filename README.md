@@ -4,6 +4,11 @@
 
 Para o nosso projeto, trabalharemos como analistas de uma consultoria chamada Ilus. Recebemos uma demanda de uma grande rede de livrarias que está enfrentando dificuldades para entender suas vendas e aumentar seu rendimento. Apesar de a livraria ter muitos dados disponíveis, ela não consegue utilizá-los para tomar decisões estratégicas e melhorar suas vendas.
 
+# Confira como está o funcionamento do dashboard:
+
+
+
+
 ## O que foi feito?
 
 * Importação dos dados: Importar dados para o Power BI e preparar o ambiente de trabalho.
@@ -26,3 +31,5 @@ Para o nosso projeto, trabalharemos como analistas de uma consultoria chamada Il
 * Funções de Inteligência Temporal:
   	- TOTALYTD: Cálculos acumulados no ano.
   	- SAMEPERIODLASTYEAR: Comparações com o mesmo período do ano anterior.
+## A logomarca foi criada utilizando inteligência artifical 
+## O layout foi criado utilizando o Microsoft Power Point
