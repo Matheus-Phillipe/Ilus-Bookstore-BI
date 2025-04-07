@@ -8,6 +8,10 @@ Para o nosso projeto, trabalharemos como analistas de uma consultoria chamada Il
 
 
 
+https://github.com/user-attachments/assets/09c772e8-461a-462e-b0fd-17860e923534
+
+
+
 
 ## O que foi feito?
 
