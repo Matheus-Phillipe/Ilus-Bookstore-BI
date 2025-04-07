@@ -31,5 +31,13 @@ Para o nosso projeto, trabalharemos como analistas de uma consultoria chamada Il
 * Funções de Inteligência Temporal:
   	- TOTALYTD: Cálculos acumulados no ano.
   	- SAMEPERIODLASTYEAR: Comparações com o mesmo período do ano anterior.
+
 ## A logomarca foi criada utilizando inteligência artifical 
+
+![BOOKSTORE (2)](https://github.com/user-attachments/assets/de5edcdb-5f63-4e87-a83e-ffdbd27b96b7)
+
 ## O layout foi criado utilizando o Microsoft Power Point
+
+![ILUS BOOKSTORE](https://github.com/user-attachments/assets/7d61a6ba-560a-48b5-a00d-79b0d2a2f5cd)
+
+
