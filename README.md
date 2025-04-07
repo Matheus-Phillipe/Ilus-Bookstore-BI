@@ -34,7 +34,7 @@ Para o nosso projeto, trabalharemos como analistas de uma consultoria chamada Il
 
 ## A logomarca foi criada utilizando inteligência artifical 
 
-![BOOKSTORE (2)](https://github.com/user-attachments/assets/de5edcdb-5f63-4e87-a83e-ffdbd27b96b7)
+![BOOKSTORE](https://github.com/user-attachments/assets/e70ef88d-5c40-48df-b93e-d0dea63d13a4)
 
 ## O layout foi criado utilizando o Microsoft Power Point
 
