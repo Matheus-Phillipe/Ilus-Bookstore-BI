@@ -24,5 +24,5 @@ Para o nosso projeto, trabalharemos como analistas de uma consultoria chamada Il
 
 * Tabela Calendário: Criação e utilização de uma tabela calendário para análises temporais.
 * Funções de Inteligência Temporal:
-	  - TOTALYTD: Cálculos acumulados no ano.
-	  - SAMEPERIODLASTYEAR: Comparações com o mesmo período do ano anterior.
+  	- TOTALYTD: Cálculos acumulados no ano.
+  	- SAMEPERIODLASTYEAR: Comparações com o mesmo período do ano anterior.
