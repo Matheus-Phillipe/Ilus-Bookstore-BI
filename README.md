@@ -45,3 +45,7 @@ https://github.com/user-attachments/assets/09c772e8-461a-462e-b0fd-17860e923534
 ![ILUS BOOKSTORE](https://github.com/user-attachments/assets/7d61a6ba-560a-48b5-a00d-79b0d2a2f5cd)
 
 
+## Autor
+
+[Matheus Phillipe](https://www.linkedin.com/in/matheus-pcf/)
+
